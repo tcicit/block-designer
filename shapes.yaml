@@ -1,0 +1,63 @@
+Box with Title:
+- ┌────────────────────────────────────────┐
+- │   Title                                │
+- │                                        │
+- │────────────────────────────────────────│
+- │                                        │
+- │                                        │
+- │                                        │
+- │                                        │
+- │                                        │
+- │                                        │
+- │                                        │
+- │                                        │
+- │                                        │
+- └────────────────────────────────────────┘
+Triangle:
+- '         \        '
+- '        / \       '
+- '       /   \      '
+- '      /     \     '
+- '     /       \    '
+- '    /         \   '
+- '   /           \  '
+- '  /             \ '
+- ' ─────────────────'
+Circle:
+- '             o             '
+- '            ooo            '
+- '       ooooooooooooo       '
+- '    oooooooooooooooooo     '
+- '   oooooooooooooooooooo    '
+- '  oooooooooooooooooooooo   '
+- ' oooooooooooooooooooooooo  '
+- 'oooooooooooooooooooooooooo '
+- ' oooooooooooooooooooooooo  '
+- '  oooooooooooooooooooooo   '
+- '   oooooooooooooooooooo    '
+- '    oooooooooooooooooo     '
+- '       ooooooooooooo       '
+- '            ooo            '
+- '             o             '
+House:
+- '   /\   '
+- '  /  \  '
+- ' /____\ '
+- ' | [] | '
+- ' |____| '
+Arrow:
+- '    ▲   '
+- '   ███  '
+- ' ███████ '
+- '   ███  '
+- '   ███  '
+Large Arrow:
+- '     ▉     '
+- '    ▉▉▉    '
+- '   ▉▉▉▉▉   '
+- '  ▉▉▉▉▉▉▉  '
+- ' ▉▉▉▉▉▉▉▉▉ '
+- '    ███    '
+- '    ███    '
+- '    ███    '
+- '    ███    '
